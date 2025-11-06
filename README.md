@@ -20,7 +20,7 @@
 
 ## 项目介绍
 
-陕西科技大学计算机科学与技术专业JavaWeb实验，正在更新中，**仅供参考**。
+陕西科技大学计算机科学与技术专业 JavaWeb 实验，已更新完毕，**仅供参考**。
 
 ## 项目目录
 
@@ -37,13 +37,16 @@
 实验一至实验六均可通过以下方式运行：
 1. 下载 tomcat 服务器，版本建议 9.0 及以上。
 2. 将项目部署到 tomcat 服务器的 webapps 目录下。
-3. 启动 tomcat 服务器，访问 http://localhost:8080/exp01/input.html 等即可。
+3. 启动 tomcat 服务器，访问 http://localhost:8080/exp01/input.html 等页面即可。
 
 实验七（综合实验）可通过以下方式运行：
 1. 下载 IDEA。
 2. 将 [CookieShop](/CookieShop/) 导入 IDEA 中。
-3. 运行数据库脚本 [CookieShop/cookieshop-mysql8.0.sql](/CookieShop/cookieshop-mysql8.0.sql) 创建数据库及数据表（注意按照依赖顺序）。
-4. 运行 CookieShop 项目，访问 http://localhost:8080/index 即可。
+3. 配置  [CookieShop\src\c3p0-config.xml](CookieShop\src\c3p0-config.xml) 中的端口号、用户名和密码。
+4. 运行数据库脚本 [CookieShop/cookieshop-mysql8.0.sql](/CookieShop/cookieshop-mysql8.0.sql) 创建数据库及数据表（注意按照依赖顺序）。
+5. 运行 CookieShop 项目
+6. 主页访问：http://localhost:8080/index
+    管理员后台访问: 登录页面输入账号 `admin`，密码 `admin` 登录后自动跳转至后台首页 http://localhost:8080/admin/index
 
 ## 附录
 
