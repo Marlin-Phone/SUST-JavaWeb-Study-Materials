@@ -42,7 +42,7 @@
 实验七（综合实验）可通过以下方式运行：
 1. 下载 IDEA。
 2. 将 [CookieShop](/CookieShop/) 导入 IDEA 中。
-3. 配置  [CookieShop\src\c3p0-config.xml](CookieShop\src\c3p0-config.xml) 中的端口号、用户名和密码。
+3. 配置  [CookieShop\src\c3p0-config.xml](CookieShop\src\c3p0-config.xml) 中的端口号、数据库名、用户名和密码。
 4. 运行数据库脚本 [CookieShop/cookieshop-mysql8.0.sql](/CookieShop/cookieshop-mysql8.0.sql) 创建数据库及数据表（注意按照依赖顺序）。
 5. 运行 CookieShop 项目
 6. 主页访问：http://localhost:8080/index

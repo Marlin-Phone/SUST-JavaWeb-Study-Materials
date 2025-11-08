@@ -1,4 +1,4 @@
-> AI生成，没有核对，仅供参考，欢迎PR。
+> AI生成，没有核对，仅供参考，欢迎PR指正。
 
 # 实验五
 
@@ -47,6 +47,14 @@ mysql -u root -p exp05db < "C:\Program Files\Apache Software Foundation\Tomcat 9
 3. 检查数据库连接配置：
    - 打开 `test_db_connection.jsp`（或项目源码中负责获取 DB 连接的文件），确认 JDBC URL、用户名与密码是否与导入的数据库一致。
    - 如果工程使用连接池或 `context.xml`（在 `META-INF` 或 Tomcat 的 `conf` 中），请同步修改相应配置。
+
+### 数据库脚本细节（来自 `test.sql`）
+
+- `test.sql` 在本目录下，脚本创建并使用数据库 `test`（含 `CREATE DATABASE test;`）。
+- 脚本创建了表 `books`，字段包括 `bookid`, `title`, `author`, `publisher`, `price`，并插入了若干示例图书记录；`contextListenerTest.jsp` 与其他页面可能基于该表进行查询。
+- 脚本还创建了 `customer` 表，字段包括 `custName`, `email`, `phone`，并插入示例客户数据；`test_db_connection.jsp` 会检查 `customer` 表是否存在。
+
+请在导入前阅读 `test.sql` 并在安全的测试环境中执行（脚本会创建数据库并插入数据）。
 
 ## 部署说明（Windows + Tomcat）
 
