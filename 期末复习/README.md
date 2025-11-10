@@ -38,15 +38,15 @@
 
 ## 备考建议
 一定要把该文件夹下 Java WEB 核心编程技能掌握 中被[编程题](#编程题70分)提到过的内容背过
-**！！！尤其是文档中的**
-1.Servlet 综合应用中的ComprehensiveServlet.java
-3.JSP 指令、动作和小脚本
-4.传统 JDBC 数据库访问中的TraditionalJDBCExample.java（和提到的ProductDAO.java）
-5.使用数据源进行数据库访问
-7.Web 监听器
-8.Web 过滤器中的PerformanceLogFilter.java
-**！！！以及exp03 中的**
-SimpleCalculator.java 和相关 JSP 页面中调用SimpleCalculator.java的过程
+**！！！尤其是文档中的**  
+1.Servlet 综合应用中的ComprehensiveServlet.java  
+3.JSP 指令、动作和小脚本  
+4.传统 JDBC 数据库访问中的TraditionalJDBCExample.java（和提到的ProductDAO.java）  
+5.使用数据源进行数据库访问  
+7.Web 监听器  
+8.Web 过滤器中的PerformanceLogFilter.java  
+**！！！以及exp03 中的**  
+SimpleCalculator.java 和相关 JSP 页面中调用SimpleCalculator.java的过程  
 
 背过这些保证拿至少 50 分！！！（大题只剩20分了）
 
@@ -54,7 +54,7 @@ SimpleCalculator.java 和相关 JSP 页面中调用SimpleCalculator.java的过�
 
 ---
 
-作者的碎碎念：
-考崩了我去，太恶心了，听说前年挂了一半人，然后因为挂的人太多了，去年捞人了，只挂了一个，不知道今年啥情况，大家感觉都考的不太好……
-主要是连考试内容都不清楚，基本上没做过全是面向对象的程序填空题，哪个方法和哪个方法都搞不明白。一上考场感觉都很熟悉，但让写具体的代码真是写不出来。
+作者的碎碎念：    
+考崩了我去，太恶心了，听说前年挂了一半人，然后因为挂的人太多了，去年捞人了，只挂了一个，不知道今年啥情况，大家感觉都考的不太好……  
+主要是连考试内容都不清楚，基本上没做过全是面向对象的程序填空题，哪个方法和哪个方法都搞不明白。一上考场感觉都很熟悉，但让写具体的代码真是写不出来。  
 希望看到本文的学弟学妹们能吸收我的经验，尽力考好吧，祝大家好运！
