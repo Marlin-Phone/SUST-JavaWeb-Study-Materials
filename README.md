@@ -1,14 +1,17 @@
-# 陕西科技大学-JavaWeb实验
-<!-- 需要将以下所有的 JavaWeb 修改为 当前仓库 名称-->
+# SUST-JavaWeb-Study-Materials
+
+## 陕西科技大学 计算机科学与技术专业 JavaWeb 参考资料
+
+<!-- 需要将以下所有的 SUST-JavaWeb-Study-Materials 修改为 当前仓库 名称-->
 <p align="center">
   <a href="https://wakatime.com/badge/user/72f7b5ae-3c4b-48e8-a41a-2f941eeb7e9d/project/925265e8-cc16-47e8-9a61-643cb7019800">
     <img src="https://wakatime.com/badge/user/72f7b5ae-3c4b-48e8-a41a-2f941eeb7e9d/project/925265e8-cc16-47e8-9a61-643cb7019800.svg" alt="wakatime">
   </a>
-  <img src="https://img.shields.io/github/last-commit/marlin-phone/JavaWeb?logo=github&color=success" alt="last commit"/>
-  <img src="https://img.shields.io/github/commit-activity/w/marlin-phone/JavaWeb" alt="commit activity"/>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=marlin-phone.JavaWeb" alt="visitors"/> 
-  <img src="https://img.shields.io/github/languages/top/marlin-phone/JavaWeb?logo=c%2B%2B&logoColor=white" alt="top language"/>
-  <img src="https://img.shields.io/github/license/marlin-phone/JavaWeb" alt="license"/>
+  <img src="https://img.shields.io/github/last-commit/marlin-phone/SUST-JavaWeb-Study-Materials?logo=github&color=success" alt="last commit"/>
+  <img src="https://img.shields.io/github/commit-activity/w/marlin-phone/SUST-JavaWeb-Study-Materials" alt="commit activity"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=marlin-phone.SUST-JavaWeb-Study-Materials" alt="visitors"/> 
+  <img src="https://img.shields.io/github/languages/top/marlin-phone/SUST-JavaWeb-Study-Materials?logo=c%2B%2B&logoColor=white" alt="top language"/>
+  <img src="https://img.shields.io/github/license/marlin-phone/SUST-JavaWeb-Study-Materials" alt="license"/>
 </p>
 
 
@@ -20,7 +23,7 @@
 
 ## 项目介绍
 
-陕西科技大学计算机科学与技术专业 JavaWeb 实验，已更新完毕，**仅供参考**。
+陕西科技大学计算机科学与技术专业 JavaWeb 学习资料，已更新完毕，**仅供参考**。
 
 ## 项目目录
 
